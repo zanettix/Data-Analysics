@@ -1,13 +1,10 @@
-Il Master in Data Analytics è un programma di eccellenza progettato da ProfessionAI per fornire agli studenti le conoscenze e le competenze necessarie per diventare esperti di Data Analytics anche partendo da zero.
+The Master's in Data Analytics is a premier program designed by ProfessionAI to provide students with the knowledge and skills needed to become data analytics experts, even from scratch.
 
-Il programma è stato sviluppato da professionisti del settore e comprende corsi teorici e pratici che ti aiuteranno a diventare un Data Analyst. Uno dei vantaggi del Master in Data Analytics è la sua flessibilità.
-Potrai seguire il programma a tuo ritmo ed inoltre, avrai l’opportunità di lavorare su progetti pratici e sperimentare con diverse tecniche e strumenti utilizzati nel mondo professionale.
+The program was developed by industry professionals and includes theoretical and practical courses that will help you become a data analyst. One of the advantages of the Master's in Data Analytics is its flexibility. You can follow the program at your own pace, and you'll also have the opportunity to work on practical projects and experiment with various techniques and tools used in the professional world.
 
-I progetti sono così divisi:
-- 1-3 sono in Excel 
-- 4-5 riguardano la data viz con PowerBI e Tableau 
-- 6-9 ricoprono Python, ML e NLP 
-- 10-11 interessano SQL e Big Data(ho usato Databricks e sfruttato l'uso dei cluster). 
-
-Inoltre, ho aggiunto un progetto sempre di ML fatto all'università, al corso di statistica numerica.
-
+The projects are divided as follows:
+- 1-3 are in Excel
+- 4-5 involve data visualization with PowerBI and Tableau
+- 6-9 cover Python, ML, and NLP
+- 10-11 involve SQL and Big Data (I used Databricks and took advantage of the use of clusters).
+Additionally, I added an ML project from university to my numerical statistics course.
